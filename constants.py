@@ -4,4 +4,4 @@
 # Created on: October 2022
 # constants file for ICS3U-Unit3-02.py.
 
-NUMBER = 5
+CONSTANT_NUMBER = 5

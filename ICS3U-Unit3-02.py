@@ -13,9 +13,9 @@ def main():
     guess_number = int(input("Guess the number from 0 to 9: "))
 
     # process and output
-    if guess_number == constants.NUMBER:
+    if guess_number == constants.CONSTANT_NUMBER:
         print("\nYou guessed right.")
-    if guess_number != constants.NUMBER:
+    if guess_number != constants.CONSTANT_NUMBER:
         print("\nYou guessed wrong, try again.")
 
     print("\n\nDone.")
